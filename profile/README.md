@@ -56,15 +56,16 @@ Practical model solutions for camera and multimodal applications, with an emphas
 
 ### ⌘ [inference-engineering](https://github.com/light-witness-lab/inference-engineering)
 
-**On-device Inference · 端侧推理工程**
+**On-device AI · Edge Inference**
 
-Exploring efficient local LLM inference on Android and PC, from memory management to execution strategies.
+Researching local LLM runtimes, edge inference engines, and hardware-aware optimization.
 
-- KV cache optimization and memory efficiency
-- Local inference with llama.cpp and ONNX Runtime
-- Exploratory Prefill-Decode disaggregation
+- **Runtimes** — llama.cpp, MLC LLM, ExecuTorch, ONNX Runtime, LiteRT
+- **Edge & local serving** — SGLang, vLLM, TensorRT-LLM, MLX
+- **Optimization** — Quantization, KV cache, attention, and heterogeneous execution
+- **Evaluation** — Reproducible benchmarks for latency, memory, throughput, and power
 
-从 KV Cache 等基础问题出发，逐步探索资源受限设备上的推理优化。
+聚焦端侧与边缘设备上的大模型推理，从运行时选型、内存管理到异构执行，以可复现的实验验证性能边界。
 
 [Explore Repository →](https://github.com/light-witness-lab/inference-engineering)
 
