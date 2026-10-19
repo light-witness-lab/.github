@@ -3,15 +3,13 @@
 
 # ◉ LIGHT WITNESS LAB
 
-### 光证实验室 · Independent Open-source Lab
+**光证实验室 · 独立开源工程实验室**
 
-**以光为证，以代码为尺。**
-
-*Observe the world. Understand the signal. Build the tools.*
+*以光为证，以代码为尺。*
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Community-181717?style=flat-square&logo=github)](https://github.com/light-witness-lab)
 [![Imaging](https://img.shields.io/badge/Imaging-Computational-58A6FF?style=flat-square)](https://github.com/light-witness-lab)
-[![Engineering](https://img.shields.io/badge/Engineering-Reproducible-8957E5?style=flat-square)](https://github.com/light-witness-lab)
+[![Edge AI](https://img.shields.io/badge/Edge-AI-8957E5?style=flat-square)](https://github.com/light-witness-lab)
 
 </div>
 
@@ -19,54 +17,44 @@
 
 ## `01` / ABOUT
 
-**光证实验室** 是一个专注于开源影像与智能计算的独立工程实验室，探索光、像素、视觉与智能之间的边界。
+探索光、像素、视觉与智能之间的边界。
 
-Light Witness Lab explores the intersection of imaging, computational photography, computer vision, and edge intelligence.
+Light Witness Lab builds open-source tools and reproducible systems across computational imaging, computer vision, and edge intelligence — turning ideas into practical engineering.
 
-We build practical tools, reproducible experiments, and open engineering systems that bridge real-world observation with computation — from capturing light to processing pixels and understanding visual data.
+我们关注从真实世界采集到计算处理、从算法实验到工程落地的完整链路。
 
-我们关注的不只是技术能否运行，更在于它是否可验证、可复现、可扩展，以及能否真正解决问题。
-
-## `02` / RESEARCH & ENGINEERING
+## `02` / DOMAINS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◉ Computational Imaging
+**◉ Imaging & Photography**
 
-计算摄影 · 影像系统
-
-Exploring image acquisition, image processing, and computational photography.
+计算摄影、影像处理与成像系统。
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Computer Vision
+**◈ Computer Vision**
 
-计算机视觉 · 视觉理解
-
-Building tools and experiments for visual perception and image understanding.
+视觉感知、图像分析与视觉理解。
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⌘ Edge Intelligence
+**⌘ Edge Intelligence**
 
-端侧智能 · 模型工程
-
-Bringing models closer to the edge through efficient inference and practical deployment.
+端侧模型、轻量化推理与部署。
 
 </td>
 <td width="50%" valign="top">
 
-### ⌬ Open Engineering
+**⌬ Open Engineering**
 
-开源工具 · 可复现工程
-
-Turning ideas into inspectable implementations, reproducible experiments, and reusable tools.
+开发者工具、实验框架与可复用组件。
 
 </td>
 </tr>
@@ -74,44 +62,23 @@ Turning ideas into inspectable implementations, reproducible experiments, and re
 
 ## `03` / PROJECTS
 
-Explore our open-source work, experiments, and engineering projects.
+Explore our repositories, tools, and experiments.
 
-<div align="center">
-
-[![Repositories](https://img.shields.io/badge/Explore-Repositories-238636?style=for-the-badge&logo=github)](https://github.com/light-witness-lab?tab=repositories)
-[![Discussions](https://img.shields.io/badge/Join-the%20Conversation-8957E5?style=for-the-badge&logo=github)](https://github.com/light-witness-lab)
-
-</div>
+→ [Browse all projects](https://github.com/light-witness-lab?tab=repositories)
 
 ## `04` / PRINCIPLES
 
-```text
-01  OPEN BY DEFAULT
-    Open implementations. Shared knowledge.
-
-02  REPRODUCIBLE BY DESIGN
-    Verifiable results. Repeatable experiments.
-
-03  ENGINEERED FOR REALITY
-    Practical tools. Measurable outcomes.
-
-04  COMPLEXITY WITH PURPOSE
-    No unnecessary abstractions. No black boxes where transparency matters.
-```
-
-我们相信，好的工程应当可以审视，实验应当可以复现，有价值的工具应当开放共享。
-
-We value transparency over magic, reproducibility over claims, and engineering over unnecessary complexity.
+- **Open by default** — 开放实现，共享知识。
+- **Reproducible by design** — 结果可验证，实验可复现。
+- **Complexity with purpose** — 为解决问题引入复杂性，而非为复杂而复杂。
 
 ---
 
 <div align="center">
 
-**OBSERVE THE WORLD.**  
-**UNDERSTAND THE SIGNAL.**  
-**BUILD THE TOOLS. SHARE THE KNOWLEDGE.**
+**OBSERVE. COMPUTE. BUILD.**
 
-以光为证，以代码为尺。
+观察世界 · 理解信号 · 构建工具
 
 <sub>LIGHT WITNESS LAB · BUILT IN THE OPEN</sub>
 
