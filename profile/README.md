@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # ◉ LIGHT WITNESS LAB
 
@@ -7,11 +6,11 @@
 
 **以光为证，以代码为尺。**
 
-From capturing moments to understanding pixels.
+From capturing moments to understanding pixels — and engineering the intelligence behind them.
 
 [![Imaging](https://img.shields.io/badge/Imaging-Open%20Source-58A6FF?style=flat-square)](https://github.com/light-witness-lab/street-snap)
-[![On-device AI](https://img.shields.io/badge/On--device-AI-8957E5?style=flat-square)](https://github.com/light-witness-lab/edge-model-solutions)
-[![Engineering](https://img.shields.io/badge/Engineering-Reproducible-238636?style=flat-square)](https://github.com/light-witness-lab)
+[![Model Engineering](https://img.shields.io/badge/Model-Engineering-8957E5?style=flat-square)](https://github.com/light-witness-lab/edge-model-solutions)
+[![Inference](https://img.shields.io/badge/Inference-On--device-238636?style=flat-square)](https://github.com/light-witness-lab/inference-engineering)
 
 </div>
 
@@ -19,11 +18,11 @@ From capturing moments to understanding pixels.
 
 ## `01` / ABOUT
 
-从真实世界的影像采集，到设备端的模型推理与评测。
+从真实世界的影像采集，到视觉模型的评测，再到端侧推理的工程优化。
 
-Light Witness Lab is an independent open-source lab exploring the intersection of documentary photography, imaging tools, and on-device intelligence.
+Light Witness Lab is an independent open-source lab exploring imaging, model engineering, and efficient on-device intelligence.
 
-我们通过真实可用的应用与可复现的工程实践，探索如何更好地记录世界、处理视觉信息，并让智能能力在实际设备上运行。
+我们关注技术如何从概念走向真实设备：以应用验证体验，以实验检验模型，以工程优化推理。
 
 ## `02` / PROJECTS
 
@@ -43,9 +42,9 @@ An open-source camera built for the serendipity of street photography.
 
 ### ◈ [edge-model-solutions](https://github.com/light-witness-lab/edge-model-solutions)
 
-**On-device Model Engineering · 端侧模型工程**
+**Model Engineering · 模型工程**
 
-Practical model solutions for camera and multimodal products, with an emphasis on reproducibility and transparent evaluation.
+Practical model solutions for camera and multimodal applications, with an emphasis on reproducibility and transparent evaluation.
 
 - Versioned model artifacts and per-weight licensing
 - Evidence-based evaluations and failure records
@@ -53,19 +52,36 @@ Practical model solutions for camera and multimodal products, with an emphasis o
 
 [Explore Repository →](https://github.com/light-witness-lab/edge-model-solutions)
 
+---
+
+### ⌘ [inference-engineering](https://github.com/light-witness-lab/inference-engineering)
+
+**On-device Inference · 端侧推理工程**
+
+Exploring efficient local LLM inference on Android and PC, from memory management to execution strategies.
+
+- KV cache optimization and memory efficiency
+- Local inference with llama.cpp and ONNX Runtime
+- Exploratory Prefill-Decode disaggregation
+
+从 KV Cache 等基础问题出发，逐步探索资源受限设备上的推理优化。
+
+[Explore Repository →](https://github.com/light-witness-lab/inference-engineering)
+
 ## `03` / ENGINEERING PRINCIPLES
 
 - **Open by default** — 开放实现，共享工具与知识。
 - **Evidence over claims** — 用评测与记录说明能力边界。
 - **Reproducible by design** — 让实验可验证，让结果可复现。
+- **Built for real devices** — 面向真实场景，而非停留在纸面指标。
 
 ---
 
 <div align="center">
 
-**CAPTURE THE WORLD. COMPUTE AT THE EDGE.**
+**CAPTURE THE WORLD. UNDERSTAND THE MODEL. COMPUTE AT THE EDGE.**
 
-记录真实 · 理解视觉 · 开放构建
+记录真实 · 理解模型 · 优化推理
 
 <sub>LIGHT WITNESS LAB · BUILT IN THE OPEN</sub>
 
