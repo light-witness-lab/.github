@@ -3,10 +3,6 @@
 # ◉ LIGHT WITNESS LAB
 ### 光证实验室 · Open-source Imaging & Edge Intelligence
 
-**以光为证，以代码为尺。**
-
-From capturing the world to building intelligence that runs on devices.
-
 [![Imaging](https://img.shields.io/badge/Imaging-Open%20Source-58A6FF?style=flat-square)](https://github.com/light-witness-lab/street-snap)
 [![Model Solutions](https://img.shields.io/badge/Model-Engineering-8957E5?style=flat-square)](https://github.com/light-witness-lab/edge-model-solutions)
 [![Edge Inference](https://img.shields.io/badge/Edge-Inference-238636?style=flat-square)](https://github.com/light-witness-lab/inference-engineering)
