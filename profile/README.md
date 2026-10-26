@@ -3,6 +3,11 @@
 # ◉ LIGHT WITNESS LAB
 ### 光证实验室 · Open-source Imaging & Edge Intelligence
 
+<sub>[English](README.en.md)</sub>
+
+我们从真实的影像产品出发，探索视觉能力的构建、验证与部署：<br>
+以相机承载应用，以模型方案实现能力，以推理工程释放设备性能。
+
 [![Imaging](https://img.shields.io/badge/Imaging-Open%20Source-58A6FF?style=flat-square)](https://github.com/light-witness-lab/street-snap)
 [![Model Solutions](https://img.shields.io/badge/Model-Engineering-8957E5?style=flat-square)](https://github.com/light-witness-lab/edge-model-solutions)
 [![Edge Inference](https://img.shields.io/badge/Edge-Inference-238636?style=flat-square)](https://github.com/light-witness-lab/inference-engineering)
@@ -13,9 +18,11 @@
 
 ## `01` / ABOUT
 
-Light Witness Lab is an open-source initiative exploring documentary imaging and on-device intelligence.
+三个方向，各自落在一个公开仓库：
 
-我们从真实的影像产品出发，探索视觉能力的构建、验证与部署：以相机承载应用，以模型方案实现能力，以推理工程释放设备性能。
+- **Imaging · 相机承载应用** — [street-snap](https://github.com/light-witness-lab/street-snap)：移动街拍相机，在取景、拍摄与成片的真实流程中使用视觉能力——构图建议、姿势引导与端侧影调。
+- **Model solutions · 模型方案实现能力** — [edge-model-solutions](https://github.com/light-witness-lab/edge-model-solutions)：把模型 checkpoint 组合为可验证的产品能力，记录评测证据、失效边界与部署约束。
+- **Inference · 推理工程释放设备性能** — [inference-engineering](https://github.com/light-witness-lab/inference-engineering)：从算子到端到端链路拆解推理开销，以可复现实测标定设备性能边界。
 
 ## `02` / PROJECTS
 
